@@ -1,4 +1,2 @@
-im dumb programmer from Russia who knows nothing
-coding on java, python, rust, C#
 
-god save me
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inftord)](https://github.com/anuraghazra/github-readme-stats)
